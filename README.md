@@ -1,8 +1,8 @@
-# AgriPulse AI
+# AgroPulse AI
 
-> **AgriPulse** is an intelligent, Goal-Based Rational Agent designed to maximize a farmer's net profit. It continuously simulates a stochastic agricultural environment—balancing crop yield predictions, market risks, pest logic, and intelligent transportation routing into a single terminal application.
+> **AgroPulse** is an intelligent, Goal-Based Rational Agent designed to maximize a farmer's net profit. It continuously simulates a stochastic Agrocultural environment—balancing crop yield predictions, market risks, pest logic, and intelligent transportation routing into a single terminal application.
 
-This project was engineered to synthesize the five foundational modules of Artificial Intelligence into one cohesive application for agricultural optimization.
+This project was engineered to synthesize the five foundational modules of Artificial Intelligence into one cohesive application for Agrocultural optimization.
 
 ---
 
@@ -25,7 +25,7 @@ All of this happens autonomously in a single execution loop!
 To run this project correctly, your folder must look exactly like this:
 
 ```text
-AgriPulse/
+AgroPulse/
 │
 ├── diagnostic_engine.py    # Deep Learning (MobileNetV2) & Prolog Logic
 ├── prediction_engine.py    # Linear Regression, K-Means, Bayes Theorem
